@@ -33,7 +33,6 @@ daily_news_emailer/
 ├── news_fetcher.py    # Fetches headlines from NewsAPI
 ├── email_sender.py    # Builds and sends HTML email
 ├── main.py            # Entry point, runs the scheduler
-└── script.py          # Standalone test script 
 
 ---
 
