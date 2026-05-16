@@ -1,8 +1,13 @@
 # 📰 Daily News Emailer
 
-An automated Python application that fetches the latest top headlines 
-and delivers a beautifully formatted HTML email digest every morning 
-— completely hands-free.
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
+![NewsAPI](https://img.shields.io/badge/NewsAPI-Integrated-orange?style=for-the-badge)
+![Gmail](https://img.shields.io/badge/Gmail-SMTP-red?style=for-the-badge&logo=gmail)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
+A fully automated Python application that fetches the latest top 
+headlines from **NewsAPI** and delivers a beautifully formatted 
+**HTML email digest** every morning — completely hands-free.
 
 ---
 
