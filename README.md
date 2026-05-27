@@ -83,6 +83,9 @@ RECEIVER = "receiver@gmail.com"
 python main.py
 ```
 
+## Notes 
+This project runs best on Python 3.10+ 
+
 ---
 
 ## 🔑 Getting API Keys
