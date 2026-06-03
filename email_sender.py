@@ -1,4 +1,4 @@
-# Build & Send Beautiful HTML Email 
+# Build And Send Beautiful HTML Email 
 
 import smtplib
 from email.mime.text import MIMEText
@@ -98,6 +98,3 @@ def send_news_email(articles):
     except Exception as e:
         print(f"❌ Error sending email: {e}")  
         
-
-
- 
