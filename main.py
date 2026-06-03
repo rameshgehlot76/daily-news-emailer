@@ -13,16 +13,16 @@ def job():
     send_news_email(articles) 
     
 # Schedule the job 
-schedule.every().day.at(SEND_TIME).do(job) 
+schedule.every().day.at(SEND_TIME).do(job)   
 
 print(f"🗞️ Daily News Emailer started!") 
 print(f"📬 Email will be sent every day at {SEND_TIME}")  
 print("   Press Ctrl+C to stop.\n") 
 
-# Run once immediately to test 
+# Run once immediately to test  
 job() 
 
-"""
+""" 
 # Keep running
 while True:
     schedule.run_pending()
