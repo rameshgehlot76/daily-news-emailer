@@ -116,3 +116,5 @@ This project runs best on Python 3.10+
 
 Built with dedication 🚀
 
+> ⭐ If you found this useful, consider starring the repo!
+
